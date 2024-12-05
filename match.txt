@@ -1,0 +1,5 @@
+29-05-2021;Manchester City;Chelsea;0;1
+28-04-2021;Paris-SG;Manchester City;1;2
+27-04-2021;Real Madrid;Chelsea;1;1
+24-04-2021;Real Madrid;Liverpool;3;1
+06-04-2021;Manchester City;Borussia Dortmund;2;1
